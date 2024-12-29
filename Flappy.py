@@ -189,5 +189,5 @@ while True:
         floor_x_pos = 0
 
     pygame.display.update()
-    clock.tick(90)
+    clock.tick(180)
     
