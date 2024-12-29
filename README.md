@@ -9,9 +9,10 @@ Features
 - Randomized pipe positions for increased difficulty
 - Score tracking
 - Simple yet fun game mechanics
+- Change in background
 
 How to Play
-- Press the Spacebar or Up Arrow to make the bird jump.
+- Press the Spacebar
 - Avoid hitting the pipes or the ground.
 - Each time you pass between two pipes, your score increases.
 - Survive as long as you can!
